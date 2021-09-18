@@ -4,7 +4,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/mattermost/logr/v2"
+	"github.com/flywave/logr/v2"
 )
 
 // Writer outputs log records to any `io.Writer`.

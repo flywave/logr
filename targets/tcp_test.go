@@ -6,9 +6,9 @@ package targets
 import (
 	"testing"
 
-	"github.com/mattermost/logr/v2"
-	"github.com/mattermost/logr/v2/formatters"
-	"github.com/mattermost/logr/v2/test"
+	"github.com/flywave/logr/v2"
+	"github.com/flywave/logr/v2/formatters"
+	"github.com/flywave/logr/v2/test"
 	"github.com/stretchr/testify/require"
 )
 

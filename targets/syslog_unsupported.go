@@ -5,7 +5,7 @@ package targets
 import (
 	"errors"
 
-	"github.com/mattermost/logr/v2"
+	"github.com/flywave/logr/v2"
 	syslog "github.com/wiggin77/srslog"
 )
 

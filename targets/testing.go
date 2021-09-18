@@ -5,8 +5,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/mattermost/logr/v2"
-	"github.com/mattermost/logr/v2/formatters"
+	"github.com/flywave/logr/v2"
+	"github.com/flywave/logr/v2/formatters"
 )
 
 // Testing is a simple log target that writes to a (*testing.T) log.

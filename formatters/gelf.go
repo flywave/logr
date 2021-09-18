@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
+	"github.com/flywave/logr/v2"
 	"github.com/francoispqt/gojay"
-	"github.com/mattermost/logr/v2"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mattermost/logr/v2"
+	"github.com/flywave/logr/v2"
 )
 
 // Plain is the simplest formatter, outputting only text with

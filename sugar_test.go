@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mattermost/logr/v2"
-	"github.com/mattermost/logr/v2/formatters"
-	"github.com/mattermost/logr/v2/targets"
+	"github.com/flywave/logr/v2"
+	"github.com/flywave/logr/v2/formatters"
+	"github.com/flywave/logr/v2/targets"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

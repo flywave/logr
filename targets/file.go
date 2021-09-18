@@ -4,7 +4,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/mattermost/logr/v2"
+	"github.com/flywave/logr/v2"
 	"gopkg.in/natefinch/lumberjack.v2"
 )
 

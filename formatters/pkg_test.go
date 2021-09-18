@@ -3,7 +3,7 @@ package formatters
 import (
 	"testing"
 
-	"github.com/mattermost/logr/v2"
+	"github.com/flywave/logr/v2"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -8,8 +8,8 @@ import (
 	"strings"
 	"sync"
 
+	"github.com/flywave/logr/v2"
 	"github.com/francoispqt/gojay"
-	"github.com/mattermost/logr/v2"
 )
 
 // JSON formats log records as JSON.

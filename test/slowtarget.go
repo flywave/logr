@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mattermost/logr/v2"
+	"github.com/flywave/logr/v2"
 )
 
 // SlowTarget outputs log records to any `io.Writer` with configurable delay

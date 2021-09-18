@@ -3,7 +3,7 @@ package test
 import (
 	"sync"
 
-	"github.com/mattermost/logr/v2"
+	"github.com/flywave/logr/v2"
 )
 
 type TestMetrics struct {

@@ -1,7 +1,7 @@
 # logr
 
-[![GoDoc](https://godoc.org/github.com/mattermost/logr?status.svg)](http://godoc.org/github.com/mattermost/logr)
-[![Report Card](https://goreportcard.com/badge/github.com/mattermost/logr)](https://goreportcard.com/report/github.com/mattermost/logr)
+[![GoDoc](https://godoc.org/github.com/flywave/logr?status.svg)](http://godoc.org/github.com/flywave/logr)
+[![Report Card](https://goreportcard.com/badge/github.com/flywave/logr)](https://goreportcard.com/report/github.com/flywave/logr)
 
 Logr is a fully asynchronous, contextual logger for Go.
 
